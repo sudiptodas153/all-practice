@@ -1,0 +1,23 @@
+h1{
+    background-color: chartreuse;
+    width: max-content;
+    font-style: normal;
+}
+.img{
+    /* display: table-footer-group; */
+    /* position: relative; */
+    /* justify-content: flex-ends;/ */
+    justify-content: rights;
+}
+ul{
+    background-color: aqua;
+    width: max-content;
+}
+nav{
+    /* display: flex; justify-content: flex-end; */
+    display: flex; justify-content: flex-end;
+    /* bottom: 50px; */
+    /* text-size-adjust: 50px; */
+    
+
+}
